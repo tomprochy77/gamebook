@@ -1,1 +1,1 @@
-[pages] (https://tomprochy77.github.io/gamebook/)
+[pages](https://tomprochy77.github.io/gamebook/)
