@@ -52,7 +52,7 @@ body {
 }
 
 .page__content {
-    font-size: 25px;
+    font-size: 20px;
 }
 
 @media (max-width: 768px) {
@@ -63,6 +63,7 @@ body {
     .button {
         padding: 8px 16px;
     }
+
     .page__image {
         width: 90%;
         height: auto;
@@ -78,9 +79,11 @@ body {
         padding: .75em;
         font-size: 17px;
     }
+
     body {
         padding: 1em;
     }
+
     .page__image {
         width: 80%;
         height: auto;
