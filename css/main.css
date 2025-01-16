@@ -66,6 +66,10 @@ body {
         padding: 8px 16px;
     }
 
+    body {
+        padding: 1em;
+    }
+
     .page__image {
         width: 90%;
         height: auto;
